@@ -1,2 +1,1 @@
-# GoPhishin-Campaign
-This is a quick phishing campaign I set up and ran on an alternative account. It shows how simple phishing campaigns can be, and how potentially crippling they can be for a company.  
+GoPhish is a powerful, easy-to-use, open-source phishing toolkit designed to help penetration testers and businesses conduct real-world phishing simulations. This is a quick showcase of how it operates. 
